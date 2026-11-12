@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.dut.airfilter",
+        "sha256_cert_fingerprints": ["95:E8:38:3C:A2:21:43:C2:FD:E5:9B:15:D9:6D:8E:20:0E:C2:90:EB:00:26:9B:23:8B:D3:43:38:CE:C1:8E:78"]
+      }
+    }]
